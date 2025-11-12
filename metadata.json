@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Notes",
+  "description": "An intelligent note-taking application powered by Gemini to help you organize your thoughts, links, and project notes. It can summarize, suggest tags, and extract action items from your notes.",
+  "requestFramePermissions": []
+}
